@@ -7,7 +7,6 @@
 ## 🌟 **About Me**
 - 🎓 **Fresh Graduate** in Information Systems from Haramaya University.
 - 💻 Passionate about **Full-Stack Development**, creating **mobile applications**, and solving real-world problems.
-- 📹 Sharing knowledge on [YouTube](#) and tech insights on [Telegram](#).
 - 🎵 Exploring **music production** as a creative outlet.
 
 ---
